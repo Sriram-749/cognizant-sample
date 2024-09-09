@@ -1,0 +1,11 @@
+.thumbnail img {
+  height: 70px;
+  width: 100px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.image-display img {
+  height: 400px;
+  width: calc(70 * 4);
+  border-radius: 10px;
+}
